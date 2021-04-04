@@ -1,8 +1,10 @@
 # dogwhistle
-Code and baseline for NAACL 2021 paper "Blow the Dog Whistle: A Chinese Dataset for Cant Understanding with Common Sense and World Knowledge"
+Baseline code for NAACL 2021 paper "Blow the Dog Whistle: A Chinese Dataset for Cant Understanding with Common Sense and World Knowledge".
 
 ### Download Data
 Please read the terms [here](https://competitions.codalab.org/competitions/30451#learn_the_details-terms_and_conditions) before download the data. The dataset is distributed under the [CC-BY-NC 3.0](https://creativecommons.org/licenses/by-nc/3.0/) license. The public data include `train`, `dev` and an unlabeled `test` split.
+
+Download the data [here](https://competitions.codalab.org/competitions/30451#participate-get_starting_kit).
 
 ### Leaderboard
 https://competitions.codalab.org/competitions/30451#results
