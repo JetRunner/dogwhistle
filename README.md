@@ -12,6 +12,9 @@ https://competitions.codalab.org/competitions/30451#results
 ### Submit to Leaderboard
 Please refer to the description [here](https://competitions.codalab.org/competitions/30451#learn_the_details-overview).
 
+### Baseline
+This repo has the baseline code we used in our experiments. It is based on a multi-choice MRC framework. However, we encourage you to try other types of models, e.g., two-tower model.
+
 ### Citation
 ```bibtex
 @inproceedings{dogwhistle,
